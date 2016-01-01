@@ -1255,6 +1255,6 @@ span.RESshortcut.RESshortcutside[style] {
 #RESStyleSheetTipPane {
     width: 71.5%;
 }
-.tabmenu (
+.tabmenu {
     margin-top: 0!important
-)
+}
